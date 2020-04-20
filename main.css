@@ -12,7 +12,7 @@ body {
 }
 
 .hero-bg {
-  background: #307d99 url("../images/hero-img.jpg");
+  background: #307d99 url("images/hero-img.jpg");
   background-size: cover;
   color: white;
   text-align: center;
